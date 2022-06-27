@@ -3,10 +3,12 @@ using System.Collections.Generic;
 using UnityEngine.AI;
 using UnityEngine;
 
+//Class of a player that can be controlled by clicking
+
 public class Spieler : MonoBehaviour
 {
     private NavMeshAgent agent;
-    private const int blickfeld = 80;//°
+    private const int blickfeld = 80/*°*/;
 
     // Start is called before the first frame update
     private void Start()
