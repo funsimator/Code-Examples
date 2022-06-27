@@ -8,3 +8,5 @@ C++ : Two classes from the X-Climb project which is using the Vektoria-Engine
 C#  : Examples from a Unity practice from my 3rd Semester
 
 Java : A simple chat client using TCP from my 4th Semester
+
+OPenGL: A Toon-Shader and a Shader that gradualy transforms a rectangle into a circle 
