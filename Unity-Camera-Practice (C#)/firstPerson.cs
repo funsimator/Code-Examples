@@ -5,7 +5,7 @@ using UnityEngine;
 
 // First Person Camera Class
 
-public class firstPers : MonoBehaviour
+public class firstPerson : MonoBehaviour
 {
     public Transform kopf;
     private Quaternion kopfAusgangsPose;
