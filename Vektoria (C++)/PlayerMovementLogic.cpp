@@ -3,6 +3,8 @@
 #include "Player.h"
 #include "Game.h"
 
+//Class that handles the movment of the player in the climbing game X-Climb
+
 void PlayerMovementLogic::SetNextGlowing(){
 	for (int i = 0; i < AnzNachfolger; i++)
 	{
